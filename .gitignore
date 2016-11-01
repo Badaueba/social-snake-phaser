@@ -1,0 +1,4 @@
+node_modules/
+.c9
+public/lib
+app/config/environment/dev.js

@@ -1,0 +1,21 @@
+{
+  "name": "snake-phaser",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "Alan Alves <alan.develop@outlook.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "phaser": "^2.6.1"
+  }
+}
